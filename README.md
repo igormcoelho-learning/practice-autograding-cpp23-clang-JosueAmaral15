@@ -57,7 +57,7 @@ Explanations for the other files:
 - The deadline is defined in GitHub Classroom
    * in case you cannot find it, ask the instructor or the course webpage
 
-Check all other rules with instructor.
+Check all other rules with instructor...
 
 ## License
 
