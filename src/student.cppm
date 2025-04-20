@@ -1,6 +1,6 @@
 export module student;
 
-using namespace std;
+import std;
 
 // Exercise 1: implements function 'add', that adds two numbers
 export int add(int a, int b);
